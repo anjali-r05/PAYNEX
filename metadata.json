@@ -1,0 +1,6 @@
+{
+  "name": "PAYNEX",
+  "description": "Autonomous Commerce & Payment Intelligence — Predict business outcomes, negotiate via AI Deal Room, execute transactions via Transaction Orchestrator, and enforce boundaries with Commerce Constitution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
